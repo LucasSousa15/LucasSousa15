@@ -1,9 +1,12 @@
 # Olá! Meu nome é Lucas Sousa  
 ### Desenvolvedor com experiência em suporte técnico e um entusiasta de front-end
 
-<div>
-<img src="https://avatars.githubusercontent.com/u/111785664?s=400&u=bb4346870bed523c03744d67d7875768e6cd3e3f&v=4" style="border-radius:50%; width:45%; display:block; margin:0 auto;" alt="Lucas Sousa" />
+<div style="border: 2px solid #ccc; border-radius: 15px; padding: 10px; width: fit-content; margin: 0 auto;">
+    <img src="https://avatars.githubusercontent.com/u/111785664?s=400&u=bb4346870bed523c03744d67d7875768e6cd3e3f&v=4" 
+         style="border-radius: 50%; width: 45%; display: block; margin: 0 auto;" 
+         alt="Lucas Sousa" />
 </div>
+
   
   ## Hardskills:
 
@@ -12,11 +15,12 @@
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white)
+
 
 ## Sobre mim:
 
-Sou estudante de Análise e Desenvolvimento de Sistemas (Uninter), mas já cursei Jogos Digitais (Fatec Carapicuíba).  
-Atualmente trabalho como assistente de TI, prestando suporte técnico e manutenção/controle de hardware e licenças.  
+Sou apaixonado por tecnologia e desenvolvimento de software, com uma base sólida em Análise e Desenvolvimento de Sistemas e experiências anteriores em Jogos Digitais na FATEC Carapicuíba. Atualmente, estou focado no desenvolvimento Fullstack, unindo habilidades em Front-end e Back-end para criar soluções completas. Minha trajetória na área de TI começou como estagiário de suporte técnico, onde adquiri experiência prática com Azure AD, Salesforce e suporte a ambientes corporativos, consolidando meu conhecimento em infraestrutura e ferramentas de gestão..  
 Em minha rotina, tenho contato com ferramentas como:
 
 ![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
