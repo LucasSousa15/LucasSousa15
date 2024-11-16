@@ -15,12 +15,14 @@
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=Angular&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-3776AB?style=for-the-badge&logo=node.js&logoColor=white)
 
 
 ## Sobre mim:
-
-Sou apaixonado por tecnologia e desenvolvimento de software, com uma base sólida em Análise e Desenvolvimento de Sistemas e experiências anteriores em Jogos Digitais na FATEC Carapicuíba. Atualmente, estou focado no desenvolvimento Fullstack, unindo habilidades em Front-end e Back-end para criar soluções completas. Minha trajetória na área de TI começou como estagiário de suporte técnico, onde adquiri experiência prática com Azure AD, Salesforce e suporte a ambientes corporativos, consolidando meu conhecimento em infraestrutura e ferramentas de gestão..  
+<p style="text-align:justify">
+Sou apaixonado por tecnologia e pelo impacto que o desenvolvimento de software pode gerar. Atualmente, curso Análise e Desenvolvimento de Sistemas e tenho uma base em Jogos Digitais pela FATEC Carapicuíba. Estou focado em me especializar como desenvolvedor Fullstack, integrando habilidades de Front-end e Back-end para criar aplicações completas e eficientes. Minha jornada na área de TI começou como estagiário de suporte técnico, onde ganhei experiência prática em Azure AD, Salesforce e suporte a ambientes corporativos, consolidando uma visão ampla das necessidades e soluções tecnológicas.
+<p/>
 Em minha rotina, tenho contato com ferramentas como:
 
 ![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
@@ -44,8 +46,4 @@ Aqui estão listadas algumas das minhas habilidades interpessoais mais relevante
 
 # Quer saber mais? Entre em contato:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-sousa-377494173/)  
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/vacilucas/)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luck.sousa15@gmail.com)  
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5511950674617)  
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/sousalucas15)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-sousa-377494173/)  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/vacilucas/)  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luck.sousa15@gmail.com)  [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5511950674617)  [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/sousalucas15)
