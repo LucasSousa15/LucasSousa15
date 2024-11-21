@@ -1,5 +1,10 @@
-# Olá! Meu nome é Lucas Sousa  
-### Desenvolvedor com experiência em suporte técnico e um entusiasta de front-end
+<h1 align="left">Hey 👋, tudo bem?</h1>
+
+
+###
+
+<p align="left">Eu sou Lucas Sousa, um desenvolvedor apaixonado por tecnologia, vivendo em Carapicuíba-SP.</p>
+
 
 <div style="border: 2px solid #ccc; border-radius: 15px; padding: 10px; width: fit-content; margin: 0 auto;">
     <img src="https://avatars.githubusercontent.com/u/111785664?s=400&u=bb4346870bed523c03744d67d7875768e6cd3e3f&v=4" 
@@ -7,43 +12,63 @@
          alt="Lucas Sousa" />
 </div>
 
-  
-  ## Hardskills:
+###
 
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=Angular&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-3776AB?style=for-the-badge&logo=node.js&logoColor=white)
+<h2 align="left">Sobre mim</h2>
 
+###
 
-## Sobre mim:
-<p style="text-align:justify">
-Sou apaixonado por tecnologia e pelo impacto que o desenvolvimento de software pode gerar. Atualmente, curso Análise e Desenvolvimento de Sistemas e tenho uma base em Jogos Digitais pela FATEC Carapicuíba. Estou focado em me especializar como desenvolvedor Fullstack, integrando habilidades de Front-end e Back-end para criar aplicações completas e eficientes. Minha jornada na área de TI começou como estagiário de suporte técnico, onde ganhei experiência prática em Azure AD, Salesforce e suporte a ambientes corporativos, consolidando uma visão ampla das necessidades e soluções tecnológicas.
-<p/>
-Em minha rotina, tenho contato com ferramentas como:
+<p align="left">
+✨ Explorando o universo do desenvolvimento desde que descobri que podia "quebrar" coisas para aprender.<br>
+📚 Atualmente mergulhado no mundo do Fullstack, aprendendo e aprimorando habilidades com ferramentas modernas.<br>
+🎯 Objetivo: Contribuir para projetos inovadores e me tornar um desenvolvedor cada vez mais completo.<br>
+🎲 Curiosidade: Sou o tipo de pessoa que sempre quer entender como as coisas funcionam – desmontar para remontar é quase um hobby!
+</p>
 
-![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=twilio&logoColor=white)
+###
 
-Minha experiência atual em suporte técnico me trouxe um sólido entendimento de infraestrutura e ferramentas empresariais.  
-No entanto, estou em busca de novos desafios no desenvolvimento, onde possa aplicar e expandir minhas habilidades com código.
+<h2 align="left">Tecnologias que eu uso</h2>
 
-### Minhas Softskills:
+###
 
-Aqui estão listadas algumas das minhas habilidades interpessoais mais relevantes:
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angular logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="sql logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo" />
+</div>
 
-![Comunicação](https://img.shields.io/badge/Comunicação-ff69b4?style=for-the-badge)
-![Trabalho em equipe](https://img.shields.io/badge/Trabalho%20em%20equipe-00CED1?style=for-the-badge)
-![Resolução de Problemas](https://img.shields.io/badge/Resolução%20de%20Problemas-FFD700?style=for-the-badge)
-![Criatividade](https://img.shields.io/badge/Criatividade-FF8C00?style=for-the-badge)
-![Adaptabilidade](https://img.shields.io/badge/Adaptabilidade-32CD32?style=for-the-badge)
-![Gestão de tempo](https://img.shields.io/badge/TimeManagement-32CD32?style=for-the-badge)
+###
 
-# Quer saber mais? Entre em contato:
+<h2 align="left">GitHub Stats</h2>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-sousa-377494173/)  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/vacilucas/)  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luck.sousa15@gmail.com)  [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5511950674617)  [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/sousalucas15)
+###
+
+<div align="left">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=LucasSousa15&show_icons=true&theme=radical" alt="Lucas GitHub stats" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasSousa15&layout=compact&theme=radical" alt="Languages" />
+</div>
+
+###
+
+<h2 align="left">Onde me encontrar</h2>
+
+###
+
+<p align="left">
+💼 <a href="https://www.linkedin.com/in/lucas-sousa-377494173/" target="_blank">LinkedIn</a><br>
+📂 <a href="https://github.com/LucasSousa15" target="_blank">GitHub</a>
+</p>
