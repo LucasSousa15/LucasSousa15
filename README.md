@@ -6,12 +6,6 @@
 <p align="left">Eu sou Lucas Sousa, um desenvolvedor apaixonado por tecnologia, vivendo em Carapicuíba-SP.</p>
 
 
-<div style="border: 2px solid #ccc; border-radius: 15px; padding: 10px; width: fit-content; margin: 0 auto;">
-    <img src="https://avatars.githubusercontent.com/u/111785664?s=400&u=bb4346870bed523c03744d67d7875768e6cd3e3f&v=4" 
-         style="border-radius: 50%; width: 45%; display: block; margin: 0 auto;" 
-         alt="Lucas Sousa" />
-</div>
-
 ###
 
 <h2 align="left">Sobre mim</h2>
