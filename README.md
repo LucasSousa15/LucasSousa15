@@ -21,7 +21,7 @@
 
 ###
 
-<h2 align="left">Tecnologias que eu uso</h2>
+<h2 align="left">Tecnologias que eu utilizo</h2>
 
 ###
 
