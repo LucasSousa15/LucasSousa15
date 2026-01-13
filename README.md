@@ -1,68 +1,50 @@
-<h1 align="left">Hey 👋, tudo bem?</h1>
+# Hey 👋, eu sou o Lucas Sousa!
 
+**Desenvolvedor Full Stack** baseado em Carapicuíba-SP, focado em construir aplicações escaláveis e performáticas utilizando o ecossistema JavaScript.
 
-###
+---
 
-<p align="left">Eu sou Lucas Sousa, um desenvolvedor apaixonado por tecnologia, vivendo em Carapicuíba-SP.</p>
+### 🚀 Sobre mim
 
+* ✨ Especialista em transformar ideias em código, com foco em arquitetura limpa e experiência do usuário.
+* 🏗️ No **Frontend**, domino o **Next.js** para criar interfaces rápidas e otimizadas (SEO/SSR).
+* ⚙️ No **Backend**, construo APIs robustas e escaláveis utilizando **NestJS**, **Express** e **Node.js**.
+* 🗄️ No **Banco de Dados**, trabalho com **PostgreSQL** para garantir persistência de dados segura e eficiente.
+* 🎯 Meu objetivo é entregar soluções que não apenas funcionem, mas que sejam fáceis de manter e evoluir.
 
-###
+---
 
-<h2 align="left">Sobre mim</h2>
+### 🛠️ Tecnologias e Ferramentas
 
-###
+#### Frontend & Mobile
+![Next.js](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-<p align="left">
-✨ Explorando o universo do desenvolvimento desde que descobri que podia "quebrar" coisas para aprender.<br>
-📚 Atualmente mergulhado no mundo do Fullstack, aprendendo e aprimorando habilidades com ferramentas modernas.<br>
-🎯 Objetivo: Contribuir para projetos inovadores e me tornar um desenvolvedor cada vez mais completo.<br>
-🎲 Curiosidade: Sou o tipo de pessoa que sempre quer entender como as coisas funcionam – desmontar para remontar é quase um hobby!
-</p>
+#### Backend & Database
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
 
-###
+#### Ferramentas e Outros
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-<h2 align="left">Tecnologias que eu utilizo</h2>
+---
 
-###
+### 📊 Estatísticas
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angular logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="sql logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo" />
-</div>
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=LucasSousa15&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasSousa15&layout=compact&theme=radical&hide=html,css)
 
-###
+---
 
-<h2 align="left">GitHub Stats</h2>
+### 📫 Vamos nos conectar?
 
-###
-
-<div align="left">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=LucasSousa15&show_icons=true&theme=radical" alt="Lucas GitHub stats" />
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasSousa15&layout=compact&theme=radical" alt="Languages" />
-</div>
-
-###
-
-<h2 align="left">Onde me encontrar</h2>
-
-###
-
-<p align="left">
-💼 <a href="https://www.linkedin.com/in/lucas-sousa-377494173/" target="_blank">LinkedIn</a><br>
-📂 <a href="https://github.com/LucasSousa15" target="_blank">GitHub</a>
-</p>
+* 💼 [LinkedIn](https://www.linkedin.com/in/lucas-sousa-377494173/)
+* 📂 [Meu Portfólio / GitHub](https://github.com/LucasSousa15)
+* ✉️ [E-mail](mailto:seu-email@exemplo.com)
