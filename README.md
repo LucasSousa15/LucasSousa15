@@ -58,8 +58,8 @@
 
 ### 📊 Estatísticas
 
-![Estatísticas do GitHub](./profile/stats.svg)
-![Linguagens mais usadas](./profile/top-langs.svg)
+![Estatísticas do GitHub](./profile/stats.svg?v=2)
+![Linguagens mais usadas](./profile/top-langs.svg?v=2)
 
 ---
 
