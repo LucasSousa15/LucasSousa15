@@ -58,8 +58,8 @@
 
 ### 📊 Estatísticas
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=LucasSousa15&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasSousa15&layout=compact&theme=radical&hide=html,css)
+![Estatísticas do GitHub](./profile/stats.svg)
+![Linguagens mais usadas](./profile/top-langs.svg)
 
 ---
 
