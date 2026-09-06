@@ -67,4 +67,4 @@
 
 * 💼 [LinkedIn](https://www.linkedin.com/in/lucas-sousa-377494173/)
 * 📂 [GitHub](https://github.com/LucasSousa15)
-* ✉️ E-mail: **adicione-seu-email-aqui**
+* ✉️ E-mail: **luck.sousa15@gmail.com**
